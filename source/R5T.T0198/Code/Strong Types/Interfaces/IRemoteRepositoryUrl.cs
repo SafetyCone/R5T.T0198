@@ -11,7 +11,7 @@ namespace R5T.T0198
     /// </summary>
     [StrongTypeMarker]
     public interface IRemoteRepositoryUrl : IStrongTypeMarker,
-        IUrl
+        N001.IRepositoryUrl
     {
     }
 }
